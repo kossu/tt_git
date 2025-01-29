@@ -1,4 +1,10 @@
 olutta
 juustoa
+<<<<<<< HEAD
 leipää x2
 makkaraa
+=======
+leipää
+makkaraa
+kana
+>>>>>>> aca9f7debe3c23218531255089e433d11aa3e778
