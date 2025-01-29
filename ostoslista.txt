@@ -2,3 +2,4 @@ olutta
 juustoa
 leipää
 makkaraa
+kana
